@@ -1,3 +1,7 @@
+# ABANDONED
+also the minecraft server that this was even made for isn't even a thing anymore lol
+
+
 # Lost-n-Found
 A tool for Minecraft which takes a screenshot when the inventory is opened. Mainly created for the eaglercraft server PrimCraft to combat losing items during a crash/restart.
 
